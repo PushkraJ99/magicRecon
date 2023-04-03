@@ -248,11 +248,11 @@ Do you want to have a conversation in private? email me : robotshelld@gmail.com
 
 # Useful? :thinking:
 * If you've earned a bug bounty using this tool, please consider donating to support it's development. You can help me to develop more useful scripts and tools. Thanks! :heart_eyes:
-<p align="center">
+<--! <p align="center">
   <a href="https://www.buymeacoffee.com/robotshell" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
   </a>
     <a href="https://www.paypal.com/paypalme/robotshell" target="_blank">
       <img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/34_Blue_PayPal_Pill_Button.png" alt="PayPal">
   </a>
-</p>
+</p> -->
